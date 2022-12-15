@@ -32,18 +32,18 @@
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
         <item>Want to use a different icon than the default one?</item>
-        <item>An App</item>
+        <item>Check out my other apps</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>If your launcher doesn\'t support manual icon choosing, download a single-icon package</item>
-        <item>This is an app</item>
+        <item>If your launcher doesn\'t support manual icon choosing, download a single icon package</item>
+        <item>Puffercat Apps is the only website you need to visit to discover all of my apps</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>ic_na_launcher</item>
-        <item>ic_na_launcher</item>
+        <item>single_icon_package</item>
+        <item>puffercat_apps</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/jahirfiquitiva/Blueprint</item>
-        <item>https://play.google.com/store/apps/details?id=com.android.settings</item>
+        <item>https://github.com/KZacharski/IHateTheNewLineageOSCameraIcon/wiki/Single-icon-packages</item>
+        <item>https://apps.puffercat.xyz</item>
     </string-array>
 </resources>
