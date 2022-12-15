@@ -6,4 +6,8 @@
         class="com.android.contacts.DialtactsContactsEntryActivity"
         name="people" />
 
+    <item
+        class="org.lineageos.aperture.CameraLauncher"
+        name="camera" />
+
 </appmap>

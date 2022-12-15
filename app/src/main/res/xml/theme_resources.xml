@@ -13,4 +13,8 @@
         name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
         image="people" />
 
+    <AppIcon
+        name="org.lineageos.aperture/org.lineageos.aperture.CameraLauncher"
+        image="camera" />
+
 </Theme>

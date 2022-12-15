@@ -28,7 +28,8 @@
             android:id="@+id/request"
             android:icon="@drawable/ic_request"
             android:orderInCategory="500"
-            android:title="@string/request" />
+            android:title="@string/request"
+            android:visible="false"/>
         <item
             android:id="@+id/templates"
             android:icon="@drawable/ic_widgets"
@@ -48,7 +49,8 @@
         <item
             android:id="@+id/donate"
             android:orderInCategory="800"
-            android:title="@string/donate" />
+            android:title="@string/donate"
+            android:visible="false"/>
         <item
             android:id="@+id/help"
             android:orderInCategory="900"
