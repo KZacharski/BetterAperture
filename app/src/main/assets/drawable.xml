@@ -6,22 +6,4 @@
     <category title="Default" />
     <item drawable="camera" />
 
-    <category title="Gradient" />
-    <item drawable="camera" />
-    <item drawable="gradient1" />
-
-    <category title="Duo-tone" />
-    <item drawable="duotone1" />
-    <item drawable="duotone2" />
-    <item drawable="duotone3" />
-
-    <category title="AOSP" />
-
-    <category title="Classic" />
-    <item drawable="classic1" />
-    <item drawable="classic2" />
-
-    <category title="OEM" />
-
-    <category title="Other" />
 </resources>

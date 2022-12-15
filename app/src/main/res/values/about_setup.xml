@@ -6,12 +6,12 @@
     </string-array>
 
     <string-array name="credits_titles">
-        <item>IHTNLOSCI</item>
+        <item>IHTNLOSCI SI</item>
         <item>Casper Zacharski</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>I hate the new LineageOS camera icon</item>
+        <item>Single icon package - default</item>
         <item>AKA Puffercat</item>
     </string-array>
 
@@ -21,7 +21,7 @@
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://github.com/KZacharski/IHateTheNewLineageOSCameraIcon|https://puffercatrom.t.me</item>
+        <item>https://github.com/KZacharski/IHateTheNewLineageOSCameraIcon/tree/single-icon_default|https://puffercatrom.t.me</item>
         <item>https://puffercat.xyz|https://twitter.com/@puffercatt|https://puffercat.xyz/donate.html</item>
     </string-array>
 </resources>

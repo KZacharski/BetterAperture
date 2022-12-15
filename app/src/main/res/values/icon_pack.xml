@@ -4,12 +4,9 @@
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
         <item>camera</item>
-        <item>classic1</item>
-        <item>classic2</item>
-        <item>gradient1</item>
-        <item>duotone1</item>
-        <item>duotone2</item>
-        <item>duotone3</item>
+        <item>camera</item>
+        <item>camera</item>
+        <item>camera</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -19,44 +16,10 @@
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
         <item>default_</item>
-        <item>gradient</item>
-        <item>duotone</item>
-        <item>aosp</item>
-        <item>classic</item>
-        <item>oem</item>
-        <item>other</item>
     </string-array>
 
     <string-array name="default_">
         <item>camera</item>
-    </string-array>
-
-    <string-array name="gradient">
-        <item>camera</item>
-        <item>gradient1</item>
-    </string-array>
-
-    <string-array name="duotone">
-        <item>duotone1</item>
-        <item>duotone2</item>
-        <item>duotone3</item>
-    </string-array>
-
-    <string-array name="aosp">
-
-    </string-array>
-
-    <string-array name="classic">
-        <item>classic1</item>
-        <item>classic2</item>
-    </string-array>
-
-    <string-array name="oem">
-
-    </string-array>
-
-    <string-array name="other">
-
     </string-array>
 
 </resources>

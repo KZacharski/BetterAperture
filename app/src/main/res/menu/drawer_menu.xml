@@ -13,7 +13,8 @@
             android:id="@+id/icons"
             android:icon="@drawable/ic_icons"
             android:orderInCategory="200"
-            android:title="@string/icons" />
+            android:title="@string/icons"
+            android:visible="false"/>
         <item
             android:id="@+id/wallpapers"
             android:icon="@drawable/ic_wallpapers"

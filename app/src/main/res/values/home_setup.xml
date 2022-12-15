@@ -6,14 +6,14 @@
         1. Small
         2. Big
     -->
-    <integer name="home_actions_style">2</integer>
+    <integer name="home_actions_style">0</integer>
 
     <!--
         Do you want to show overview in home section?
         True, means yes.
         False, means no.
     -->
-    <bool name="show_overview">true</bool>
+    <bool name="show_overview">false</bool>
 
     <!--
         Do you want the quick apply button to show its text?
@@ -31,19 +31,19 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>Want to use a different icon than the default one?</item>
+        <item>Do you use a launcher that supports manual icon selection?</item>
         <item>Check out my other apps</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>If your launcher doesn\'t support manual icon choosing, download a single icon package</item>
+        <item>Get the full version of IHTNLOSCI for a better experience</item>
         <item>Puffercat Apps is the only website you need to visit to discover all of my apps</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>single_icon_package</item>
+        <item>normal_package</item>
         <item>puffercat_apps</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/KZacharski/IHateTheNewLineageOSCameraIcon/wiki/Single-icon-packages</item>
+        <item>https://apps.puffercat.xyz/details/IHTNLOSCI</item>
         <item>https://apps.puffercat.xyz</item>
     </string-array>
 </resources>
