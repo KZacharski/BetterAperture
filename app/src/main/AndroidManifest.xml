@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="xyz.puffercat.ihtnlosci">
+    package="xyz.puffercat.betteraperture">
 
     <!-- Permission required for donations. Remove it if you don't use it -->
-    <uses-permission android:name="com.android.vending.BILLING" />
+
 
     <application
-        android:name="xyz.puffercat.ihtnlosci.MyApplication"
+        android:name="xyz.puffercat.betteraperture.MyApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
@@ -18,7 +18,7 @@
         tools:ignore="UnusedAttribute">
 
         <activity
-            android:name="xyz.puffercat.ihtnlosci.MainActivity"
+            android:name="xyz.puffercat.betteraperture.MainActivity"
             android:label="@string/app_name"
             android:exported="true">
 
@@ -235,7 +235,7 @@
 
         <!-- Muzei Service -->
         <provider
-            android:name="xyz.puffercat.ihtnlosci.MuzeiService"
+            android:name="xyz.puffercat.betteraperture.MuzeiService"
             android:authorities="${applicationId}.muzei"
             android:exported="true"
             android:icon="@drawable/ic_muzei_icon"
