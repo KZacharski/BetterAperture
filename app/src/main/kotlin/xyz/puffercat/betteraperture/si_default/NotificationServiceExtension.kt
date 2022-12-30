@@ -1,4 +1,4 @@
-package xyz.puffercat.ihtnlosci.si_default
+package xyz.puffercat.betteraperture.si_default
 
 /* TODO: Remove comment marks to enable
 import android.content.Context

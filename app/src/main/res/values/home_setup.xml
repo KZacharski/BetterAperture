@@ -35,7 +35,7 @@
         <item>Check out my other apps</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>Get the full version of IHTNLOSCI for a better experience</item>
+        <item>Get the full version of BetterAperture for a better experience</item>
         <item>Puffercat Apps is the only website you need to visit to discover all of my apps</item>
     </string-array>
     <string-array name="home_list_icons">
@@ -43,7 +43,7 @@
         <item>puffercat_apps</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://apps.puffercat.xyz/details/IHTNLOSCI</item>
+        <item>https://apps.puffercat.xyz/details/BetterAperture</item>
         <item>https://apps.puffercat.xyz</item>
     </string-array>
 </resources>

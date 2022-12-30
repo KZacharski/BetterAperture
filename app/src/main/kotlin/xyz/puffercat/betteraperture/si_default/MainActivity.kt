@@ -1,8 +1,9 @@
-package xyz.puffercat.ihtnlosci.si_default
+package xyz.puffercat.betteraperture.si_default
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import xyz.puffercat.ihtnlosci.si_default.R
+import xyz.puffercat.betteraperture.si_default.R
 import dev.jahir.blueprint.ui.activities.DrawerBlueprintActivity
+import xyz.puffercat.betteraperture.si_default.BuildConfig
 
 /**
  * You can choose between:
