@@ -17,4 +17,8 @@
         name="org.lineageos.aperture/org.lineageos.aperture.CameraLauncher"
         image="camera" />
 
+    <AppIcon
+        name="org.lineageos.aperture/com.android.camera.CameraLauncher"
+        image="camera" />
+
 </Theme>

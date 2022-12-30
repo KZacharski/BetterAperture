@@ -10,6 +10,9 @@
         <item>gradient2</item>
         <item>gradient3</item>
         <item>gradient4</item>
+        <item>gradient5</item>
+        <item>gradient6</item>
+        <item>gradient7</item>
         <item>duotone_amber_light</item>
         <item>duotone_amber</item>
         <item>duotone_amber_dark</item>
@@ -98,6 +101,102 @@
         <item>aosp_teal</item>
         <item>aosp_violet</item>
         <item>aosp_yellow</item>
+        <item>flat_teal_light_1</item>
+        <item>flat_teal_light_2</item>
+        <item>flat_teal_dark_1</item>
+        <item>flat_teal_dark_2</item>
+        <item>flat_amber_light_1</item>
+        <item>flat_amber_light_2</item>
+        <item>flat_amber_dark_1</item>
+        <item>flat_amber_dark_2</item>
+        <item>flat_black_light_1</item>
+        <item>flat_black_light_2</item>
+        <item>flat_black_dark_1</item>
+        <item>flat_black_dark_2</item>
+        <item>flat_blue_light_1</item>
+        <item>flat_blue_light_2</item>
+        <item>flat_blue_dark_1</item>
+        <item>flat_blue_dark_2</item>
+        <item>flat_cyan_light_1</item>
+        <item>flat_cyan_light_2</item>
+        <item>flat_cyan_dark_1</item>
+        <item>flat_cyan_dark_2</item>
+        <item>flat_emerald_light_1</item>
+        <item>flat_emerald_light_2</item>
+        <item>flat_emerald_dark_1</item>
+        <item>flat_emerald_dark_2</item>
+        <item>flat_fuchsia_light_1</item>
+        <item>flat_fuchsia_light_2</item>
+        <item>flat_fuchsia_dark_1</item>
+        <item>flat_fuchsia_dark_2</item>
+        <item>flat_gray_light_1</item>
+        <item>flat_gray_light_2</item>
+        <item>flat_gray_dark_1</item>
+        <item>flat_gray_dark_2</item>
+        <item>flat_green_light_1</item>
+        <item>flat_green_light_2</item>
+        <item>flat_green_dark_1</item>
+        <item>flat_green_dark_2</item>
+        <item>flat_indigo_light_1</item>
+        <item>flat_indigo_light_2</item>
+        <item>flat_indigo_dark_1</item>
+        <item>flat_indigo_dark_2</item>
+        <item>flat_lime_light_1</item>
+        <item>flat_lime_light_2</item>
+        <item>flat_lime_dark_1</item>
+        <item>flat_lime_dark_2</item>
+        <item>flat_neutral_light_1</item>
+        <item>flat_neutral_light_2</item>
+        <item>flat_neutral_dark_1</item>
+        <item>flat_neutral_dark_2</item>
+        <item>flat_orange_light_1</item>
+        <item>flat_orange_light_2</item>
+        <item>flat_orange_dark_1</item>
+        <item>flat_orange_dark_2</item>
+        <item>flat_pink_light_1</item>
+        <item>flat_pink_light_2</item>
+        <item>flat_pink_dark_1</item>
+        <item>flat_pink_dark_2</item>
+        <item>flat_purple_light_1</item>
+        <item>flat_purple_light_2</item>
+        <item>flat_purple_dark_1</item>
+        <item>flat_purple_dark_2</item>
+        <item>flat_red_light_1</item>
+        <item>flat_red_light_2</item>
+        <item>flat_red_dark_1</item>
+        <item>flat_red_dark_2</item>
+        <item>flat_rose_light_1</item>
+        <item>flat_rose_light_2</item>
+        <item>flat_rose_dark_1</item>
+        <item>flat_rose_dark_2</item>
+        <item>flat_sky_light_1</item>
+        <item>flat_sky_light_2</item>
+        <item>flat_sky_dark_1</item>
+        <item>flat_sky_dark_2</item>
+        <item>flat_slate_light_1</item>
+        <item>flat_slate_light_2</item>
+        <item>flat_slate_dark_1</item>
+        <item>flat_slate_dark_2</item>
+        <item>flat_stone_light_1</item>
+        <item>flat_stone_light_2</item>
+        <item>flat_stone_dark_1</item>
+        <item>flat_stone_dark_2</item>
+        <item>flat_violet_light_1</item>
+        <item>flat_violet_light_2</item>
+        <item>flat_violet_dark_1</item>
+        <item>flat_violet_dark_2</item>
+        <item>flat_white_light_1</item>
+        <item>flat_white_light_2</item>
+        <item>flat_white_dark_1</item>
+        <item>flat_white_dark_2</item>
+        <item>flat_yellow_light_1</item>
+        <item>flat_yellow_light_2</item>
+        <item>flat_yellow_dark_1</item>
+        <item>flat_yellow_dark_2</item>
+        <item>flat_zinc_light_1</item>
+        <item>flat_zinc_light_2</item>
+        <item>flat_zinc_dark_1</item>
+        <item>flat_zinc_dark_2</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -110,6 +209,7 @@
         <item>gradient</item>
         <item>duotone</item>
         <item>aosp</item>
+        <item>flat</item>
         <item>classic</item>
         <item>oem</item>
         <item>other</item>
@@ -125,9 +225,13 @@
         <item>gradient2</item>
         <item>gradient3</item>
         <item>gradient4</item>
+        <item>gradient5</item>
+        <item>gradient6</item>
+        <item>gradient7</item>
     </string-array>
 
-    <string-array name="duotone">        <item>duotone_amber_light</item>
+    <string-array name="duotone">
+        <item>duotone_amber_light</item>
         <item>duotone_amber</item>
         <item>duotone_amber_dark</item>
         <item>duotone_blue_light</item>
@@ -219,6 +323,105 @@
         <item>aosp_violet</item>
         <item>aosp_yellow</item>
 
+    </string-array>
+
+    <string-array name="flat">
+        <item>flat_teal_light_1</item>
+        <item>flat_teal_light_2</item>
+        <item>flat_teal_dark_1</item>
+        <item>flat_teal_dark_2</item>
+        <item>flat_amber_light_1</item>
+        <item>flat_amber_light_2</item>
+        <item>flat_amber_dark_1</item>
+        <item>flat_amber_dark_2</item>
+        <item>flat_black_light_1</item>
+        <item>flat_black_light_2</item>
+        <item>flat_black_dark_1</item>
+        <item>flat_black_dark_2</item>
+        <item>flat_blue_light_1</item>
+        <item>flat_blue_light_2</item>
+        <item>flat_blue_dark_1</item>
+        <item>flat_blue_dark_2</item>
+        <item>flat_cyan_light_1</item>
+        <item>flat_cyan_light_2</item>
+        <item>flat_cyan_dark_1</item>
+        <item>flat_cyan_dark_2</item>
+        <item>flat_emerald_light_1</item>
+        <item>flat_emerald_light_2</item>
+        <item>flat_emerald_dark_1</item>
+        <item>flat_emerald_dark_2</item>
+        <item>flat_fuchsia_light_1</item>
+        <item>flat_fuchsia_light_2</item>
+        <item>flat_fuchsia_dark_1</item>
+        <item>flat_fuchsia_dark_2</item>
+        <item>flat_gray_light_1</item>
+        <item>flat_gray_light_2</item>
+        <item>flat_gray_dark_1</item>
+        <item>flat_gray_dark_2</item>
+        <item>flat_green_light_1</item>
+        <item>flat_green_light_2</item>
+        <item>flat_green_dark_1</item>
+        <item>flat_green_dark_2</item>
+        <item>flat_indigo_light_1</item>
+        <item>flat_indigo_light_2</item>
+        <item>flat_indigo_dark_1</item>
+        <item>flat_indigo_dark_2</item>
+        <item>flat_lime_light_1</item>
+        <item>flat_lime_light_2</item>
+        <item>flat_lime_dark_1</item>
+        <item>flat_lime_dark_2</item>
+        <item>flat_neutral_light_1</item>
+        <item>flat_neutral_light_2</item>
+        <item>flat_neutral_dark_1</item>
+        <item>flat_neutral_dark_2</item>
+        <item>flat_orange_light_1</item>
+        <item>flat_orange_light_2</item>
+        <item>flat_orange_dark_1</item>
+        <item>flat_orange_dark_2</item>
+        <item>flat_pink_light_1</item>
+        <item>flat_pink_light_2</item>
+        <item>flat_pink_dark_1</item>
+        <item>flat_pink_dark_2</item>
+        <item>flat_purple_light_1</item>
+        <item>flat_purple_light_2</item>
+        <item>flat_purple_dark_1</item>
+        <item>flat_purple_dark_2</item>
+        <item>flat_red_light_1</item>
+        <item>flat_red_light_2</item>
+        <item>flat_red_dark_1</item>
+        <item>flat_red_dark_2</item>
+        <item>flat_rose_light_1</item>
+        <item>flat_rose_light_2</item>
+        <item>flat_rose_dark_1</item>
+        <item>flat_rose_dark_2</item>
+        <item>flat_sky_light_1</item>
+        <item>flat_sky_light_2</item>
+        <item>flat_sky_dark_1</item>
+        <item>flat_sky_dark_2</item>
+        <item>flat_slate_light_1</item>
+        <item>flat_slate_light_2</item>
+        <item>flat_slate_dark_1</item>
+        <item>flat_slate_dark_2</item>
+        <item>flat_stone_light_1</item>
+        <item>flat_stone_light_2</item>
+        <item>flat_stone_dark_1</item>
+        <item>flat_stone_dark_2</item>
+        <item>flat_violet_light_1</item>
+        <item>flat_violet_light_2</item>
+        <item>flat_violet_dark_1</item>
+        <item>flat_violet_dark_2</item>
+        <item>flat_white_light_1</item>
+        <item>flat_white_light_2</item>
+        <item>flat_white_dark_1</item>
+        <item>flat_white_dark_2</item>
+        <item>flat_yellow_light_1</item>
+        <item>flat_yellow_light_2</item>
+        <item>flat_yellow_dark_1</item>
+        <item>flat_yellow_dark_2</item>
+        <item>flat_zinc_light_1</item>
+        <item>flat_zinc_light_2</item>
+        <item>flat_zinc_dark_1</item>
+        <item>flat_zinc_dark_2</item>
     </string-array>
 
     <string-array name="classic">

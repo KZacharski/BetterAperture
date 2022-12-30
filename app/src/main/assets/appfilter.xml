@@ -49,4 +49,8 @@
         component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}"
         drawable="camera" />
 
+    <item
+        component="ComponentInfo{org.lineageos.aperture/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
 </resources>

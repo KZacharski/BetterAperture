@@ -10,4 +10,8 @@
         class="org.lineageos.aperture.CameraLauncher"
         name="camera" />
 
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera" />
+
 </appmap>
